@@ -18,7 +18,7 @@ function Home() {
             </div>
             <div className= "flex justify-center">
             <img
-            src="https://unsplash.com/pt-br/fotografias/pilula-de-medicacao-laranja-e-branca-w8p9cQDLX7I"
+            src="https://cdn-icons-png.flaticon.com/512/3140/3140343.png"
             alt= "Imagem Página Home"
             className= "w-2/3"
              />
